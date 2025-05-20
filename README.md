@@ -1,11 +1,11 @@
-# Hi 👋 I'm [Your Name]
+# Hi 👋 I'm Abha Upadhyay
 
 🔒 Cyber Security Enthusiast | 🧠 AI/ML Researcher  
 🎓 MTech CSE | 3+ Years Research | Published IEEE Papers  
 🎯 Focus: VAPT, Threat Detection, AI in Security
 
 ## 🔧 Tools & Technologies
-- CyberSec: Burp Suite, Nmap, Wireshark, Metasploit, Kali Linux
+- CyberSec: VAPT, Burp Suite, Nmap, Wireshark, Metasploit, Kali Linux
 - AI/ML: Python, TensorFlow, Scikit-learn, PyTorch, NLP
 - Other: Git, Docker, Linux, GitHub Actions
 
